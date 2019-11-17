@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_actions.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985659432" remote="132180831270000000" Dst="1" />
+<file name="_box.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823984998809" remote="132180831270000000" Dst="1" />
+<file name="_button.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986139866" remote="132180831270000000" Dst="1" />
+<file name="_contact.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985138940" remote="132180831270000000" Dst="1" />
+<file name="_features.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986450154" remote="132180831280000000" Dst="1" />
+<file name="_form.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986300016" remote="132180831280000000" Dst="1" />
+<file name="_icon.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986600339" remote="132180831280000000" Dst="1" />
+<file name="_icons.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985269076" remote="132180831280000000" Dst="1" />
+<file name="_image.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985519303" remote="132180831290000000" Dst="1" />
+<file name="_list.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986750473" remote="132180831290000000" Dst="1" />
+<file name="_pagination.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985809567" remote="132180831290000000" Dst="1" />
+<file name="_row.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985399191" remote="132180831290000000" Dst="1" />
+<file name="_section.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823986900620" remote="132180831300000000" Dst="1" />
+<file name="_table.scss" server="192.241.132.97//var/www/html/tcnmain/" local="132180823985999752" remote="132180831300000000" Dst="1" />
+<file name="_actions.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985659432" remote="132181794600000000" Dst="1" />
+<file name="_box.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823984998809" remote="132181794600000000" Dst="1" />
+<file name="_button.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986139866" remote="132181794600000000" Dst="1" />
+<file name="_contact.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985138940" remote="132181794600000000" Dst="1" />
+<file name="_features.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986450154" remote="132181794600000000" Dst="1" />
+<file name="_form.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986300016" remote="132181794600000000" Dst="1" />
+<file name="_icon.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986600339" remote="132181794600000000" Dst="1" />
+<file name="_icons.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985269076" remote="132181794600000000" Dst="1" />
+<file name="_image.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985519303" remote="132181794600000000" Dst="1" />
+<file name="_list.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986750473" remote="132181794600000000" Dst="1" />
+<file name="_pagination.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985809567" remote="132181794600000000" Dst="1" />
+<file name="_row.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985399191" remote="132181794600000000" Dst="1" />
+<file name="_section.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823986900620" remote="132181794600000000" Dst="1" />
+<file name="_table.scss" server="192.168.0.19/Program Files (x86)/Ampps/www/" local="132180823985999752" remote="132181794600000000" Dst="1" />
+<file name="_actions.scss" server="192.168.0.23:20//public_html/" local="132180823985659432" remote="132184308600000000" Dst="1" />
+<file name="_box.scss" server="192.168.0.23:20//public_html/" local="132180823984998809" remote="132184308600000000" Dst="1" />
+<file name="_button.scss" server="192.168.0.23:20//public_html/" local="132180823986139866" remote="132184308600000000" Dst="1" />
+<file name="_contact.scss" server="192.168.0.23:20//public_html/" local="132180823985138940" remote="132184308600000000" Dst="1" />
+<file name="_features.scss" server="192.168.0.23:20//public_html/" local="132180823986450154" remote="132184308600000000" Dst="1" />
+<file name="_form.scss" server="192.168.0.23:20//public_html/" local="132180823986300016" remote="132184308600000000" Dst="1" />
+<file name="_icon.scss" server="192.168.0.23:20//public_html/" local="132180823986600339" remote="132184308600000000" Dst="1" />
+<file name="_icons.scss" server="192.168.0.23:20//public_html/" local="132180823985269076" remote="132184308600000000" Dst="1" />
+<file name="_image.scss" server="192.168.0.23:20//public_html/" local="132180823985519303" remote="132184308600000000" Dst="1" />
+<file name="_list.scss" server="192.168.0.23:20//public_html/" local="132180823986750473" remote="132184308600000000" Dst="1" />
+<file name="_pagination.scss" server="192.168.0.23:20//public_html/" local="132180823985809567" remote="132184308600000000" Dst="1" />
+<file name="_row.scss" server="192.168.0.23:20//public_html/" local="132180823985399191" remote="132184308600000000" Dst="1" />
+<file name="_section.scss" server="192.168.0.23:20//public_html/" local="132180823986900620" remote="132184308600000000" Dst="1" />
+<file name="_table.scss" server="192.168.0.23:20//public_html/" local="132180823985999752" remote="132184308600000000" Dst="1" />
+</dwsync>
